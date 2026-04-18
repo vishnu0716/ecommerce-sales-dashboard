@@ -21,8 +21,7 @@ This project presents an interactive Power BI dashboard designed to analyze e-co
 - DAX
 - Data Modeling
 
-## 📸 Dashboard Preview
-(Add your screenshots here)
 
-## 📂 File
-- ecommerce-sales-dashboard.pbix
+
+
+
